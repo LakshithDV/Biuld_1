@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int c1()
 {
     int a=10,b=20,sumOfTwoNumbers;
     

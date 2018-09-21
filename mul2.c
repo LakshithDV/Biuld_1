@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int c3()
 {
     double a=2.4, b=1.12, product;
     printf("Enter two numbers: ");

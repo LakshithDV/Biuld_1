@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+int c2()
 {
     int n=4;
 
